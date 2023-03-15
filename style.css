@@ -35,7 +35,7 @@ body {
   justify-content: space-between;
 }
 
-.wrapper .row > * {
+.wrapper .row>* {
   flex-basis: calc(50% - 12px);
 }
 
@@ -99,6 +99,5 @@ body {
 }
 
 .buttons .copy {
-  background-color: #8a6cff;
+  background-color: #525151;
 }
-
