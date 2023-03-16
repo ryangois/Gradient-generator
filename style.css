@@ -98,6 +98,16 @@ body {
   background-color: #6c757d;
 }
 
+.buttons .refresh:hover {
+  background-color: #5a6269;
+  transition: 2s;
+}
+
 .buttons .copy {
   background-color: #525151;
+}
+
+.buttons .copy:hover {
+  background-color: #363636;
+  transition: 2s;
 }
