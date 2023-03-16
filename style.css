@@ -12,7 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(#977DFE, #6878FF);
+  background: linear-gradient(to left top, #977DFE, #6878FF);
 }
 
 .wrapper {
