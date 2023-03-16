@@ -22,7 +22,7 @@ const generateGradient = (isRandom) => {
     textArea.value = `background: ${gradient};`;
 }
 
-const copyCode = () =>{
+const copyCode = () => {
     navigator.clipboard.writeText(textArea.value);
     copyBtn.innerText = "Code Copied!";
     setTimeout(() => copyBtn.innerText = "Copy Code", 1400);
