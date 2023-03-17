@@ -47,7 +47,7 @@ body {
 .options .select-box {
   border-radius: 5px;
   padding: 10px 15px;
-  border: 1px solid #aaa;
+  border: 1px solid #AAAAAA;
 }
 
 .options .select-box select {
@@ -74,16 +74,16 @@ body {
 
 .wrapper textarea {
   width: 100%;
-  color: #333;
+  color: #333333;
   resize: none;
   font-size: 1.05rem;
   border-radius: 5px;
   padding: 10px 15px;
-  border: 1px solid #ccc;
+  border: 1px solid #CCCCCC;
 }
 
 .buttons button {
-  color: #fff;
+  color: #FFFFFF;
   cursor: pointer;
   padding: 15px 0;
   font-size: 1.09rem;
